@@ -21,11 +21,11 @@ trigger LeadTrigger on Lead (before update) {
 }
 ```
 
-## 📄 Trigger on Task Object  
+## 📄 Trigger on Lead Object  
 ### Here you can see the trigger written on the Lead object:  
  <img width="500" height="713" alt="4" src="https://github.com/user-attachments/assets/f22817bd-1a76-4133-9008-44837940f1df" />
 
-## 📝 Creating a Task Record  
+## 📝 Updating a Lead Record  
 ### A Lead record is being updated:  
 <img width="500" height="1038" alt="1" src="https://github.com/user-attachments/assets/f1aa1457-e67b-4b9a-a697-ff42dca14318" />
 
@@ -53,3 +53,5 @@ trigger LeadTrigger on Lead (before update) {
 ✔️ Ensures data consistency  
 ✔️ Automatically standardizes Lead status  
 
+## 🧠 Real-World Use Case  
+This is useful in sales teams where **any activity or edit on a Lead** means the sales rep has contacted the prospect — so Salesforce updates the status automatically.

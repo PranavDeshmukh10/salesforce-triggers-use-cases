@@ -22,19 +22,30 @@ trigger TaskTrigger on Task (before insert) {
 
 ## 📄 Trigger on Task Object  
 ### Here you can see the trigger written on the Task object:  
-<img width="1914" height="776" alt="2" src="https://github.com/user-attachments/assets/fbfa4aae-f082-457f-9fc1-185ff6272caf" />  
+<img width="500" height="776" alt="2" src="https://github.com/user-attachments/assets/fbfa4aae-f082-457f-9fc1-185ff6272caf" />  
 
 ## 📝 Creating a Task Record  
 ### A new Task record is being created:  
-<img width="700" height="940" alt="1" src="https://github.com/user-attachments/assets/4dbea713-00e9-469a-94a2-b964a6f3d781" />  
+<img width="500" height="940" alt="1" src="https://github.com/user-attachments/assets/4dbea713-00e9-469a-94a2-b964a6f3d781" />  
 
 ## 🐞 Debug Logs  
 ## The trigger execution can be verified from the debug logs:  
-<img width="1915" height="376" alt="3" src="https://github.com/user-attachments/assets/48da741a-e51a-47d9-817c-ab8e131b78c3" />  
+<img width="500" height="376" alt="3" src="https://github.com/user-attachments/assets/278c5bda-ff11-474a-b651-35fd2d0e77d6" />
+
 
 ## ✅ Final Result  
 ### The Priority field is automatically set to High after record creation:  
-<img width="1916" height="876" alt="4" src="https://github.com/user-attachments/assets/311864e5-c364-43f7-841f-7fb457a81358" />
+<img width="500" height="876" alt="4" src="https://github.com/user-attachments/assets/311864e5-c364-43f7-841f-7fb457a81358" />
+
+## 🔍 What’s Happening Here?
+
+| Step | Description |
+|------|-------------|
+| 🟢 Trigger Fires | Runs when a **Task** record is created |
+| 🔄 Loop | Iterates through all new Task records using `Trigger.new` |
+| ✏️ Field Update | Sets `Priority` to **High** before saving |
+| 🐞 Debug Log | Confirms trigger execution |
+| 💾 Save | Record is saved with updated Priority |
 
 ## 🎯 Key Takeaways
 

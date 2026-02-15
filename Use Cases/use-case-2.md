@@ -22,20 +22,16 @@ trigger LeadTrigger on Lead (before update) {
 ```
 
 ## 📄 Trigger on Lead Object  
-### Here you can see the trigger written on the Lead object:  
  <img width="500" height="713" alt="4" src="https://github.com/user-attachments/assets/f22817bd-1a76-4133-9008-44837940f1df" />
 
 ## 📝 Updating a Lead Record  
-### A Lead record is being updated:  
 <img width="500" height="1038" alt="1" src="https://github.com/user-attachments/assets/f1aa1457-e67b-4b9a-a697-ff42dca14318" />
 
 ## 🐞 Debug Logs  
-## The trigger execution can be verified from the debug logs:  
 <img width="500" height="386" alt="3" src="https://github.com/user-attachments/assets/dc62871c-de89-40c6-a7ed-60d1dd631c05" />
 
 
 ## ✅ Final Result  
-### The Lead Status field is automatically set to Working-Contacted after record updation:  
 <img width="500" height="1040" alt="2" src="https://github.com/user-attachments/assets/73603f5a-f358-441d-91d4-2988c1f0f23b" />
 
 

@@ -59,15 +59,7 @@ trigger CaseTrigger on Case (before insert) {
 | 🐞 Debug Logs      | Confirms which condition ran           |
 | 💾 Save            | Record is saved with updated Priority  |
 
-## 🎯 Key Benefits  
-📞 Phone cases get higher urgency  
-⚡ Automatic priority assignment  
-📊 Better case management for support teams  
-🚫 No manual updates required  
-
-## 🧠 Real-World Scenario  
-Customer support teams prioritize **phone calls** because they usually indicate **urgent issues**.  
-This trigger ensures Salesforce handles that automatically.  
+## 🎉 Happy Learning 🎉
 
 
 

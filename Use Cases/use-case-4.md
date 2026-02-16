@@ -56,15 +56,7 @@ trigger LeadTrigger on Lead (before update) {
 | 🐞 Debug Logs     | Confirms execution                        |
 | 💾 Save           | Record is saved with updated values       |
 
-## 🎯 Business Value
-🏥 Healthcare leads are standardized automatically  
-📊 Data becomes clean and reliable  
-⚡ No manual data entry  
-🚀 Faster lead processing  
-
-## 🧠 Real-World Use Case
-Companies often buy Healthcare leads from third-party vendors.  
-This trigger ensures those leads are **properly tagged, tracked, and prioritized** in Salesforce.
+## 🎉 Happy Learning 🎉
 
 
 

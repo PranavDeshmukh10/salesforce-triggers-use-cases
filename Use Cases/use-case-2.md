@@ -43,11 +43,4 @@ trigger LeadTrigger on Lead (before update) {
 | ✏️ Field Update  | Sets `Status` to **Working – Contacted**      |
 | 🐞 Debug Logs    | Helps confirm execution                       |
 
-## 🎯 Key Notes
-✔️ Uses Before Update Trigger → No DML needed  
-✔️ Works in bulk updates  
-✔️ Ensures data consistency  
-✔️ Automatically standardizes Lead status  
-
-## 🧠 Real-World Use Case  
-This is useful in sales teams where **any activity or edit on a Lead** means the sales rep has contacted the prospect — so Salesforce updates the status automatically.
+## 🎉 Happy Learning 🎉

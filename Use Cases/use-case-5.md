@@ -4,7 +4,7 @@
 ---
 ## 🛠️ Solution  
 
-## 🏗️ Architecture – Trigger Handler Pattern
+### 🏗️ Architecture – Trigger Handler Pattern
 
 In this use case, we use the **Trigger Handler Pattern**, which is a Salesforce best practice because it:
 
@@ -14,7 +14,7 @@ In this use case, we use the **Trigger Handler Pattern**, which is a Salesforce 
 
 ---
 
-## ⚡ Opportunity Trigger
+### ⚡ Opportunity Trigger
 
 ```apex
 trigger OpportunityTrigger on Opportunity (after update) {
@@ -24,7 +24,7 @@ trigger OpportunityTrigger on Opportunity (after update) {
 }
 ```
 
-## 🧠 OpportunityTriggerHandler Class
+### 🧠 OpportunityTriggerHandler Class
 
 ```apex
 public class OpportunityTriggerHandler {

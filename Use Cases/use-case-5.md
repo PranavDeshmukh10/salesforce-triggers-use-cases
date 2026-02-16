@@ -64,18 +64,22 @@ public class OpportunityTriggerHandler {
 
 ## 📄 Trigger on Opportunity Object   
 ### ⚡ Opportunity Trigger
-<img width="962" height="316" alt="5" src="https://github.com/user-attachments/assets/a2d130f0-75d9-4545-a248-3a29a5d19a5e" />
+<img width="500" height="316" alt="5" src="https://github.com/user-attachments/assets/a2d130f0-75d9-4545-a248-3a29a5d19a5e" />
 
 ### 🧠 OpportunityTriggerHandler Class
-<img width="1319" height="1032" alt="6" src="https://github.com/user-attachments/assets/587e6aaa-37d3-4af4-b520-1f9e8c663a7f" />
+<img width="500" height="1032" alt="6" src="https://github.com/user-attachments/assets/587e6aaa-37d3-4af4-b520-1f9e8c663a7f" />
 
 ## 📝 Updating a Opportunity Record  
+### Before Record update
+<img width="500" height="954" alt="1" src="https://github.com/user-attachments/assets/76a657a2-abac-4a8c-b831-c23fc975eeaf" />
 
-
-## 🐞 Debug Logs  
-
+### After Record update
+<img width="500" height="946" alt="2" src="https://github.com/user-attachments/assets/020ac278-a4a8-4fd0-8f38-7f0b15833624" />
 
 ## ✅ Final Result  
+### Task is Created
+<img width="500" height="779" alt="3" src="https://github.com/user-attachments/assets/c6d73e55-cf95-4675-a0a8-8960328ac940" />
+<img width="500" height="642" alt="4" src="https://github.com/user-attachments/assets/7f111d98-6563-491b-8cec-e7da0f8fcb3b" />
 
 
 ## 🔍 What’s Happening Here?  

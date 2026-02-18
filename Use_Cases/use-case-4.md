@@ -34,12 +34,14 @@ trigger LeadTrigger on Lead (before update) {
 ```
 
 ## 📄 Trigger   
-<img width="500" height="813" alt="3" src="https://github.com/user-attachments/assets/97f95b8a-31ca-45ac-b5e2-e2e8458b1dd6" />
+<img width="500" height="655" alt="3" src="https://github.com/user-attachments/assets/ac010ca3-bd4b-4662-bf64-6531f6d7bce8" />
 
 ## 🐞 Debug Logs  
-<img width="500" height="453" alt="4" src="https://github.com/user-attachments/assets/37b8dd71-cf4c-4d17-92e0-5e71fb585aab" />
+<img width="500" height="258" alt="4" src="https://github.com/user-attachments/assets/c624f086-9edf-4637-9d4d-5f0fd95b7ffc" />
 
 ## ✅ Hands On Practice  
+https://github.com/user-attachments/assets/d17b5220-ab2e-4dda-8082-683e8d34a8ef
+
 
 
 

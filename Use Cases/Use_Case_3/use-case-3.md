@@ -28,23 +28,23 @@ trigger CaseTrigger on Case (before insert) {
 }
 ```
 
-## 📄 Trigger on Task Object  
-### Here you can see the trigger written on the Task object:  
-<img width="500" height="727" alt="4" src="https://github.com/user-attachments/assets/b171e66c-2d4d-43f6-8711-b08217b7dc6a" />
+## 📄 Trigger on Case Object   
+<img width="500" height="727" alt="4" src="/Use Cases/Use_Case_3/Hands_On_Practice/4.png" />
 
 
-## 📝 Creating a Task Record  
-### A new Task record is being created:  
+## 📝 Creating a Case Record  
 <img width="500" height="977" alt="1" src="https://github.com/user-attachments/assets/a3d893ab-d2bc-484a-8b5d-6b624048174c" />
 
 
 ## 🐞 Debug Logs  
-## The trigger execution can be verified from the debug logs:  
 <img width="500" height="318" alt="3" src="https://github.com/user-attachments/assets/9fa03ac3-51d9-4bb5-a63b-30d1adb486e1" />
 
 ## ✅ Final Result  
-### The Priority field is automatically set to High after record creation:  
 <img width="500" height="1043" alt="2" src="https://github.com/user-attachments/assets/793d882e-4684-46a3-b43e-7f6a550b5e45" />
+<video width="320" height="240" controls>
+  <source src="/Use Cases/Use_Case_3/Hands_On_Practice/hands-on.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ## 🔍 What’s Happening Here?  

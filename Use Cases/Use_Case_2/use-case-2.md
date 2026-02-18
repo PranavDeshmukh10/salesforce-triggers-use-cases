@@ -22,17 +22,17 @@ trigger LeadTrigger on Lead (before update) {
 ```
 
 ## 📄 Trigger on Lead Object  
- <img width="500" height="713" alt="4" src="https://github.com/user-attachments/assets/f22817bd-1a76-4133-9008-44837940f1df" />
+ <img width="500" height="713" alt="4" src="/Use Cases/Use_Case_2/Hands_On_Practice/4.png" />
 
 ## 📝 Updating a Lead Record  
-<img width="500" height="1038" alt="1" src="https://github.com/user-attachments/assets/f1aa1457-e67b-4b9a-a697-ff42dca14318" />
+<img width="500" height="1038" alt="1" src="/Use Cases/Use_Case_2/Hands_On_Practice/1.png" />
 
 ## 🐞 Debug Logs  
-<img width="500" height="386" alt="3" src="https://github.com/user-attachments/assets/dc62871c-de89-40c6-a7ed-60d1dd631c05" />
+<img width="500" height="386" alt="3" src="/Use Cases/Use_Case_2/Hands_On_Practice/3.png" />
 
 
 ## ✅ Final Result  
-<img width="500" height="1040" alt="2" src="https://github.com/user-attachments/assets/73603f5a-f358-441d-91d4-2988c1f0f23b" />
+<img width="500" height="1040" alt="2" src="/Use Cases/Use_Case_2/Hands_On_Practice/2.png" />
 
 
 ## 🔍 What’s Happening Here?  

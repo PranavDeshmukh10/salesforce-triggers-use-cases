@@ -20,22 +20,18 @@ trigger TaskTrigger on Task (before insert) {
 }
 ```
 
-## 📄 Trigger on Task Object  
-### Here you can see the trigger written on the Task object:  
-<img width="500" height="776" alt="2" src="https://github.com/user-attachments/assets/fbfa4aae-f082-457f-9fc1-185ff6272caf" />  
+## 📄 Trigger on Task Object   
+<img width="500" height="776" alt="2" src="/Use Cases/Use_Case_1/Hands_On_Practice/2.png />  
 
 ## 📝 Creating a Task Record  
-### A new Task record is being created:  
-<img width="500" height="940" alt="1" src="https://github.com/user-attachments/assets/4dbea713-00e9-469a-94a2-b964a6f3d781" />  
+<img width="500" height="940" alt="1" src="/Use Cases/Use_Case_1/Hands_On_Practice/1.png" />  
 
 ## 🐞 Debug Logs  
-## The trigger execution can be verified from the debug logs:  
-<img width="500" height="376" alt="3" src="https://github.com/user-attachments/assets/278c5bda-ff11-474a-b651-35fd2d0e77d6" />
+<img width="500" height="376" alt="3" src="/Use Cases/Use_Case_1/Hands_On_Practice/3.png />
 
 
-## ✅ Final Result  
-### The Priority field is automatically set to High after record creation:  
-<img width="500" height="876" alt="4" src="https://github.com/user-attachments/assets/311864e5-c364-43f7-841f-7fb457a81358" />
+## ✅ Final Result   
+<img width="500" height="876" alt="4" src="/Use Cases/Use_Case_1/Hands_On_Practice/4.png" />
 
 ## 🔍 What’s Happening Here?
 

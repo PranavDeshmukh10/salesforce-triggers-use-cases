@@ -22,12 +22,14 @@ trigger LeadTrigger on Lead (before update) {
 ```
 
 ## 📄 Trigger 
- <img width="500" height="713" alt="4" src="/Use Cases/Use_Case_2/Hands_On_Practice/4.png" />
+<img width="500" height="491" alt="4" src="https://github.com/user-attachments/assets/2fa70799-ad76-458a-829c-2ded2f046e8a" />
 
 ## 🐞 Debug Logs  
-<img width="500" height="386" alt="3" src="/Use Cases/Use_Case_2/Hands_On_Practice/3.png" />
+<img width="500" height="273" alt="3" src="https://github.com/user-attachments/assets/b5401f23-b2bb-48dd-ab56-0f85783cf1cf" />
 
 ## ✅ Hands On Practice  
+https://github.com/user-attachments/assets/2d42115f-51af-4b73-b244-360c86b603b4
+
 
 
 ## 🎉 Happy Learning 🎉

@@ -54,11 +54,11 @@ public class AccountTriggerHandler {
 
 ## 📄 Trigger   
 ### ⚡ AccountTrigger 
-<img width="1066" height="535" alt="1" src="https://github.com/user-attachments/assets/ad517493-2a34-4d2b-be77-87d2e2393a7a" />
+<img width="500" height="535" alt="1" src="https://github.com/user-attachments/assets/ad517493-2a34-4d2b-be77-87d2e2393a7a" />
 
 
 ### 🧠 AccountTriggerHandler Class
-<img width="1556" height="1012" alt="2" src="https://github.com/user-attachments/assets/a3870dac-1f7f-4a27-aecb-b71bf9e88aeb" />
+<img width="500" height="1012" alt="2" src="https://github.com/user-attachments/assets/a3870dac-1f7f-4a27-aecb-b71bf9e88aeb" />
 
 ## ✅ Hands On Practice
 https://github.com/user-attachments/assets/077f012c-751a-4f1a-a5ca-8ebf82af991e

@@ -42,9 +42,8 @@ trigger CaseTrigger on Case (before insert) {
 ## ✅ Final Result  
 <img width="500" height="1043" alt="2" src="https://github.com/user-attachments/assets/793d882e-4684-46a3-b43e-7f6a550b5e45" />  
 
-<video width="800" controls>
-  <source src="https://github.com/PranavDeshmukh10/salesforce-triggers-use-cases/raw/master/Use%20Cases/Use_Case_3/Hands_On_Practice/hands-on.mp4" type="video/mp4">
-</video>  
+https://github.com/user-attachments/assets/8e10b0d1-1792-4254-919b-61bdd55677e0
+
 
 
 ## 🔍 What’s Happening Here?  

@@ -60,15 +60,14 @@ public class OpportunityTriggerHandler {
 
 ## 📄 Trigger   
 ### ⚡ OpportunityTrigger  
-<img width="500" height="813" alt="4" src="/Salesforce Triggers/Day 10/4.png" />
+<img width="500" height="451" alt="1" src="https://github.com/user-attachments/assets/c860e8fe-4755-4d1f-8f29-bf4bdd5af0b1" />
 
 ### 🧠 OpportunityTriggerHandler Class
-<img width="500" height="734" alt="5" src="/Salesforce Triggers/Day 10/5.png" />
-
-## 🐞 Debug Logs  
-<img width="500" height="734" alt="5" src="/Salesforce Triggers/Day 10/3.png" />
+<img width="500" height="1035" alt="2" src="https://github.com/user-attachments/assets/be3b3b97-449f-47a8-9314-c9cd6e572a7f" />
 
 ## ✅ Hands On Practice
+https://github.com/user-attachments/assets/10a391ff-1dc3-4932-b282-bbab4a3eb741
+
 
 
 

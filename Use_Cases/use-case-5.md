@@ -70,6 +70,8 @@ public class OpportunityTriggerHandler {
 <img width="500" height="1032" alt="6" src="https://github.com/user-attachments/assets/587e6aaa-37d3-4af4-b520-1f9e8c663a7f" />
 
 ## ✅ Hands On Practice
+https://github.com/user-attachments/assets/2728a322-db13-4274-88d6-8341aaee5545
+
 
 
 

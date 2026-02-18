@@ -40,10 +40,11 @@ trigger CaseTrigger on Case (before insert) {
 <img width="500" height="318" alt="3" src="https://github.com/user-attachments/assets/9fa03ac3-51d9-4bb5-a63b-30d1adb486e1" />
 
 ## ✅ Final Result  
-<img width="500" height="1043" alt="2" src="https://github.com/user-attachments/assets/793d882e-4684-46a3-b43e-7f6a550b5e45" />
+<img width="500" height="1043" alt="2" src="https://github.com/user-attachments/assets/793d882e-4684-46a3-b43e-7f6a550b5e45" />  
+
 <video width="800" controls>
   <source src="https://github.com/PranavDeshmukh10/salesforce-triggers-use-cases/raw/master/Use%20Cases/Use_Case_3/Hands_On_Practice/hands-on.mp4" type="video/mp4">
-</video>
+</video>  
 
 
 ## 🔍 What’s Happening Here?  

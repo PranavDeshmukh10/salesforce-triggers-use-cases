@@ -42,7 +42,7 @@ trigger CaseTrigger on Case (before insert) {
 ## ✅ Final Result  
 <img width="500" height="1043" alt="2" src="https://github.com/user-attachments/assets/793d882e-4684-46a3-b43e-7f6a550b5e45" />
 <video width="320" height="240" controls>
-  <source src="/Use Cases/Use_Case_3/Hands_On_Practice/hands-on.mp4" type="video/mp4">
+  <source src="/Use%20Cases/Use_Case_3/Hands_On_Practice/hands-on.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

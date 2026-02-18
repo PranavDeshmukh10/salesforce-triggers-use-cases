@@ -50,15 +50,15 @@ public class AccountTriggerHandler {
 
 ## 📄 Trigger   
 ### ⚡ AccountTrigger 
-<img width="1010" height="415" alt="4" src="https://github.com/user-attachments/assets/785576ef-2acd-4e93-925d-5ad178e13e01" />
+<img width="500" height="415" alt="4" src="https://github.com/user-attachments/assets/785576ef-2acd-4e93-925d-5ad178e13e01" />
 
 
 ### 🧠 AccountTriggerHandler Class
-<img width="1709" height="983" alt="5" src="https://github.com/user-attachments/assets/5b172ca2-7e48-4f31-9341-2a762ae46e93" />
+<img width="500" height="983" alt="5" src="https://github.com/user-attachments/assets/5b172ca2-7e48-4f31-9341-2a762ae46e93" />
 
 
 ## 🐞 Debug Logs  
-<img width="709" height="245" alt="3" src="https://github.com/user-attachments/assets/f176bb7c-871e-41ea-93bc-125f98c14bbb" />
+<img width="500" height="245" alt="3" src="https://github.com/user-attachments/assets/f176bb7c-871e-41ea-93bc-125f98c14bbb" />
 
 
 ## ✅ Hands On Practice

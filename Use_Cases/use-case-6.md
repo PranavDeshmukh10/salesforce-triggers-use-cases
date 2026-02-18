@@ -51,6 +51,8 @@ public class LeadTriggerHandler {
 <img width="500" height="734" alt="5" src="https://github.com/user-attachments/assets/e204f29f-fe1f-4404-945f-21d330dd6af8" />
 
 ## ✅ Hands On Practice
+https://github.com/user-attachments/assets/a86e4ef2-b2bd-4fb4-8488-2aacf9455403
+
 
 
 

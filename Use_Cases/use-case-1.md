@@ -20,13 +20,15 @@ trigger TaskTrigger on Task (before insert) {
 }
 ```
 
-## 📄 Trigger  
-<img width="500" height="776" alt="2" src="/Use Cases/Use_Case_1/Hands_On_Practice/2.png />  
+## 📄 Trigger    
+<img width="500" height="463" alt="2" src="https://github.com/user-attachments/assets/fa2e058c-8500-4540-9239-a303f0ab5de5" />
 
 ## 🐞 Debug Logs  
-<img width="500" height="376" alt="3" src="/Use Cases/Use_Case_1/Hands_On_Practice/3.png />
+<img width="500" height="320" alt="3" src="https://github.com/user-attachments/assets/c8c4539e-b439-42b7-8066-459c6f652ead" />
 
 ## ✅ Hands On Practice   
+https://github.com/user-attachments/assets/d7dda69b-047c-4da7-bd59-93ba7136eb26
+
 
 
 ## 🎉 Happy Learning 🎉 

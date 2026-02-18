@@ -29,10 +29,10 @@ trigger CaseTrigger on Case (before insert) {
 ```
 
 ## 📄 Trigger   
-<img width="500" height="727" alt="4" src="/Use Cases/Use_Case_3/Hands_On_Practice/4.png" />
+<img width="500" height="651" alt="4" src="https://github.com/user-attachments/assets/96b2a5f3-df33-499b-b222-14c97e8aac16" />
 
 ## 🐞 Debug Logs  
-<img width="500" height="318" alt="3" src="https://github.com/user-attachments/assets/9fa03ac3-51d9-4bb5-a63b-30d1adb486e1" />
+<img width="500" height="242" alt="3" src="https://github.com/user-attachments/assets/9b77aa94-d1db-4fbe-85e1-9d1c4a221131" />
 
 ## ✅ Hands On Practice 
 https://github.com/user-attachments/assets/8e10b0d1-1792-4254-919b-61bdd55677e0

@@ -47,15 +47,14 @@ public class AccountTriggerHandler {
 
 ## 📄 Trigger   
 ### ⚡ AccountTrigger 
-<img width="500" height="813" alt="4" src="/Salesforce Triggers/Day 10/4.png" />
+<img width="500" height="445" alt="3" src="https://github.com/user-attachments/assets/510abcc9-973b-4561-b4a0-dd86b4f03a25" />
 
 ### 🧠 AccountTriggerHandler Class
-<img width="500" height="734" alt="5" src="/Salesforce Triggers/Day 10/5.png" />
-
-## 🐞 Debug Logs  
-<img width="500" height="734" alt="5" src="/Salesforce Triggers/Day 10/3.png" />
+<img width="500" height="884" alt="4" src="https://github.com/user-attachments/assets/3775824b-52be-4504-9eca-83865cda267c" />
 
 ## ✅ Hands On Practice
+https://github.com/user-attachments/assets/e52ea154-5623-48fa-91a1-7f113cfdfe4e
+
 
 
 

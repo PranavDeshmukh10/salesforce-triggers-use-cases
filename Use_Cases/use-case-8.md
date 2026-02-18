@@ -35,12 +35,14 @@ public class ContactTriggerHandler {
 
 ## 📄 Trigger   
 ### ⚡ ContactTrigger 
-<img width="500" height="813" alt="4" src="/Salesforce Triggers/Day 8/3.png" />
+<img width="941" height="335" alt="3" src="https://github.com/user-attachments/assets/9dafaa68-7cf9-4fc3-bfee-067261027984" />
 
 ### 🧠 ContactTriggerHandler Class
-<img width="500" height="734" alt="5" src="/Salesforce Triggers/Day 8/4.png" />
+<img width="1026" height="477" alt="4" src="https://github.com/user-attachments/assets/ef23fade-84d2-4f02-88ba-a5bf2c5d3ae4" />
 
 ## ✅ Hands On Practice
+https://github.com/user-attachments/assets/92846dba-9a2a-4689-be9b-60c023320e32
+
 
 
 
